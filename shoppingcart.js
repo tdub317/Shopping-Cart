@@ -1,3 +1,5 @@
+"use strict";
+
 let shoppingCart = [];
 
 let itemList = [{
